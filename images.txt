@@ -1,4 +1,7 @@
 #支持私库
 opengrok/docker
+gerritcodereview/gerrit 
+osixia/openldap 
+osixia/phpldapadmin
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
